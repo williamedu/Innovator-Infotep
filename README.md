@@ -13,7 +13,7 @@ Este programa tiene la intención de detectar si una empresa necesita o no innov
 
 4-) pip install mysql-connector-python
 
-5-) copiar y pegar el siguiente codigo uno por uno en Query (esto es como la terminar, donde se ejecuta codigo en MySQL) esto creara las tablas necesarias para ejecutar el codigo 
+5-) copiar y pegar el siguiente codigo uno por uno en Query (esto es como la terminar, donde se ejecuta codigo en MySQL) esto creara las tablas necesarias para ejecutar el codigo (seleccionar la base de datos "preguntas" con doble click antes de correr el script, esto es para seleccionarla de lo contrario dara error)
   
   
   ******* 1-) copie y pege el codigo de abajo (luego borrar el codigo y seguir con el siguiente (presione CRTL + Enter para ejecutar el codigo))*******
