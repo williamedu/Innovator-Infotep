@@ -23,7 +23,7 @@ def agregar_usuario(conexion, username, password, es_superusuario=False):
 
 
 def main():
-    print("Bienvenido al sistema de gestión de usuarios.")
+    print("Bienvenido al sistema de gestión de usuarios: modo administrador")
     while True:
         print("\nOpciones:")
         print("1. Agregar usuario")
