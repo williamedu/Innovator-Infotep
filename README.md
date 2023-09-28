@@ -9,6 +9,8 @@ Este programa tiene la intención de detectar si una empresa necesita o no innov
   
   
   ******* 1-) copie y pege el codigo de abajo (luego borrar el codigo y seguir con el siguiente (presione CRTL + Enter para ejecutar el codigo))*******
+
+  
   -- Crea la tabla "results" para almacenar los resultados de las empresas
 CREATE TABLE results (
     id INT AUTO_INCREMENT PRIMARY KEY,
