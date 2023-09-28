@@ -6,9 +6,13 @@ Este programa tiene la intención de detectar si una empresa necesita o no innov
 
 
 1-) Instalar MySQL
+
 2-) crear una base de datos en MYSQL con el nombre "preguntas"
+
 3-) en VSCODE debes tener instalado el modulo mysqlConector que se instala corriendo el siguiente codigo en la terminal 
+
 4-) pip install mysql-connector-python
+
 5-) copiar y pegar el siguiente codigo uno por uno en Query (esto es como la terminar, donde se ejecuta codigo en MySQL) esto creara las tablas necesarias para ejecutar el codigo 
   
   
