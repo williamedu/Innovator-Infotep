@@ -32,8 +32,10 @@ def evaluar_innovacion(puntuacion):
         return "La empresa está innovando."
     elif puntuacion >= 60:
         return "Se requiere innovación."
+    elif puntuacion >= 30:
+        return "Se requiere imnovacion urgente"
     else:
-        return "Se necesita innovación urgente."
+        return "Se necesita innovación inmediata."
 
 
 def mostrar_menu(superusuario=False, username=""):
