@@ -55,6 +55,8 @@ CREATE TABLE usuarios (
 
 10-) corre el scrip de imnovator-detector.py y logeate como el super usuario veras que tienes mas opciones en el sistema incluidos ver los usuarios registrados, consultare el historial de resultados, registrar empresa (cuestionario), eliminar usuario y eliminar registro
 
+11-) hay un scrip que dice extensive_questioning.py que hace 50 preguntas en vez de 10 este tinene la diferencia que las respuestas se hacen con 1=si 2 = no 3 = avces para mayor facilidad a la hora de contestar
+
 11-) es todo no hay mas pasos a seguir, hay unos scripts de prueba en la carpeta "other" sientete libre de correrlos 
 
 
